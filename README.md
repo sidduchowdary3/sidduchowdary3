@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Siddhartha Sai Venkat  <br><br>I'm a full-stack developer passionate about creating modern, scalable, and user-friendly applications.  <br>With experience in React Native, JavaScript, Node.js, Express, and MongoDB, I enjoy turning ideas into real-world solutions.  <br><br>Continuous learning and innovation drive me forward.<br>
+👋 Hello, I'm Siddhartha Yalamanchili  <br><br>I'm a full-stack developer passionate about creating modern, scalable, and user-friendly applications.  <br>With experience in React Native, JavaScript, Node.js, Express, and MongoDB, I enjoy turning ideas into real-world solutions.  <br><br>Continuous learning and innovation drive me forward.<br>
 
 
 ## 🌐 Socials:
